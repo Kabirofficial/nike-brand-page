@@ -22,9 +22,9 @@ function App() {
 
       <header className="hero">
         <div className="hero-text">
-          <h1>Elevate Your Style with Comfort</h1>
+          <h1>YOUR FEET DESERVE THE BEST</h1>
           <p>
-            Our exclusive Nike collection brings you the perfect blend of fashion and functionality.
+            Elevate your style with comfort. Our exclusive Nike collection brings you the perfect blend of fashion and functionality.
           </p>
           <div className="buttons">
             <button className="shop-btn">Shop Now</button>
